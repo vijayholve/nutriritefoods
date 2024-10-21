@@ -157,13 +157,13 @@
     align-items: center;
     height: 80vh;
     padding: 20px;
-    background-image:url("vegetables-set-and-spices-for-cooking-on-dark-background-ai-generated-free-photo.jpg");
+    background-image:url();
     border-radius: 20px;
     box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
     overflow: hidden;
 }
 
-.food-image {    
+.food-image {
     flex: 1;
     display: flex;
     justify-content: center;
@@ -182,7 +182,7 @@
 .food-image:hover img {
     transform: scale(1.05);
 }
-hell
+
 .title {
     flex: 1;
     display: flex;
